@@ -47,7 +47,7 @@ Run the Python script to open the application. The main interface will appear wi
 
 ### Step 2: **Input the URL**
 - Enter the URL you want to analyze in the text field provided.
-- Ensure that the URL is correctly formatted (e.g., "https://example.com").
+- Ensure that the URL is correctly formatted.
 
 ### Step 3: **Scan the URL**
 - Click the **"Scan URL"** button to initiate the scanning process.
