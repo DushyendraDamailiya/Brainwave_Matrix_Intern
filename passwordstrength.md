@@ -28,9 +28,6 @@ This Python program is a graphical user interface (GUI) tool that helps users as
    - Use the "Reset" button to clear the password entry field, progress bar, and result text box.
    - The "Generate Password" button will create a random, strong password for you. You can then copy and use this password.
      
-screenshot
-<img src="https://github.com/user-attachments/assets/b69f5606-0f16-4825-9f56-38e441037480" alt="">
-<img src="https://github.com/user-attachments/assets/984dc62b-ec98-4621-b6b7-a8102900da8c" alt="">
 **Security Tips**
 
 * Use a password that is at least 12 characters long.
