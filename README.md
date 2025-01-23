@@ -14,8 +14,7 @@ This repository contains two basic tools for cyber security and ethical hacking:
     2. The tool will analyze the URL and provide a risk assessment (e.g., "High Risk," "Medium Risk," "Low Risk," "Safe").
     3. The tool may also provide additional information, such as potential red flags and warnings.
 
-**2. <a href="https://github.com/DushyendraDamailiya/Brainwave_Matrix_Intern/blob/0404a2abe22ca492ce43b91a734c48411138201f/passwordstrength.md"> Password Strength Checker</a>**
-
+2.<a href="https://github.com/DushyendraDamailiya/Brainwave_Matrix_Intern/blob/1e877b9715ae1297187f5ee4a01b4d884cbeb846/passwordstrength.md"> Password strength checker</a>
 * **Description:** This tool evaluates the strength of a given password based on various criteria, such as:
     * **Length:** Checks if the password meets a minimum length requirement.
     * **Character types:** Verifies the presence of uppercase letters, lowercase letters, numbers, and special characters.
