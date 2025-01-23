@@ -3,7 +3,7 @@ Brainwave Matrix Solution
 
 This repository contains two basic tools for cyber security and ethical hacking:
 
-**1. <a href="https://github.com/DushyendraDamailiya/Brainwave_Matrix_Intern/blob/0404a2abe22ca492ce43b91a734c48411138201f/Phishinglink.md"> Phishing Link scanner</a>**
+**1. <a href="https://github.com/DushyendraDamailiya/Brainwave_Matrix_Intern/blob/15f9ac0fdded528f6742e3f649bbc79adaf5e839/Phishinglink.md"> Phishing Link scanner</a>**
 
 * **Description:** This tool aims to identify potential phishing URLs. It utilizes a combination of techniques, including:
     * **URL analysis:** Checks for common patterns in phishing URLs, such as misspellings of legitimate domain names, unusual subdomains, and suspicious top-level domains (TLDs).
