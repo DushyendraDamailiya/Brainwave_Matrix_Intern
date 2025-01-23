@@ -27,13 +27,17 @@ This Python program is a graphical user interface (GUI) tool that helps users as
 5. **Reset or Generate Password:**
    - Use the "Reset" button to clear the password entry field, progress bar, and result text box.
    - The "Generate Password" button will create a random, strong password for you. You can then copy and use this password.
-     
+## Screenshot
+<img src ="https://github.com/user-attachments/assets/580162e2-9d61-444f-9c56-1e551a81ff8d" alt= "">
+<img src ="https://github.com/user-attachments/assets/a636d5b0-c792-47a9-9f20-c01916ccf9c7" alt= "">  
+
 **Security Tips**
 
 * Use a password that is at least 12 characters long.
 * Combine uppercase and lowercase letters, numbers, and symbols in your password.
 * Avoid using common words, phrases, or personal information in your passwords.
-* Don't reuse the same password for multiple accounts.
+* Don't reuse the same password.
+ssword for multiple accounts.
 * Consider using a password manager to help you create and store strong, unique passwords for all your online accounts.
 
 This password strength checker is a valuable tool to help you create and maintain secure passwords for your online accounts. Remember, strong passwords are essential for protecting yourself from cyberattacks.
