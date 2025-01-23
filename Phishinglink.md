@@ -70,7 +70,7 @@ Run the Python script to open the application. The main interface will appear wi
 - Input a new URL for scanning.
 - 
 ## Screenshot
-<img src ="https://github.com/user-attachments/assets/d5b586ba-ac85-4ac1-9f22-4b23bc1fb258" alt= "">
+<img src ="https://github.com/user-attachments/assets/d5b586ba-ac85-4ac1-9f22-4b23bc1fb258" height="450" width="500">
 
 ## 4. Conclusion
 
