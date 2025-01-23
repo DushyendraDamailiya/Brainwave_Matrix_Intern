@@ -68,8 +68,9 @@ Run the Python script to open the application. The main interface will appear wi
 ### Step 6: **Reset for a New Scan**
 - Click the **"Reset"** button to clear the input field and results section.
 - Input a new URL for scanning.
-
----
+- 
+## Screenshot
+<img src ="https://github.com/user-attachments/assets/d5b586ba-ac85-4ac1-9f22-4b23bc1fb258" alt= "">
 
 ## 4. Conclusion
 
