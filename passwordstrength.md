@@ -23,7 +23,7 @@ This Python program is a graphical user interface (GUI) tool that helps users as
       - Progress Bar: The progress bar visually represents the password strength score.
       - Details: This section provides a breakdown of whether your password meets criteria like minimum length, uppercase characters, etc., using checkmarks (✔) and crosses (✘).
       - Suggestions: If your password is weak, this section will offer specific recommendations for improvement, such as increasing length or using a variety of character types.
-      - ## Screenshot
+ ## Screenshot
 <img src ="https://github.com/user-attachments/assets/580162e2-9d61-444f-9c56-1e551a81ff8d" alt= "">
 <img src ="https://github.com/user-attachments/assets/a636d5b0-c792-47a9-9f20-c01916ccf9c7" alt= "">  
 
